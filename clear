@@ -1,0 +1,65 @@
+[33mcommit 9efb5a9774c8fa4b1902d2d3fffb318d96c73fd9[m[33m ([m[1;36mHEAD -> [m[1;32mfirstbranch[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Shyam820 <shyamgaderiya02@gmail.com>
+Date:   Sun Jan 26 17:14:09 2020 +0530
+
+    modified all files
+
+[1mdiff --git a/epm1.txt b/epm1.txt[m
+[1mindex 8c47dca..33da4bf 100644[m
+[1m--- a/epm1.txt[m
+[1m+++ b/epm1.txt[m
+[36m@@ -1 +1 @@[m
+[31m-hi i kamlesh pal[m
+\ No newline at end of file[m
+[32m+[m[32mGood afternoon.I am kamlesh gaderiya from Guru Nanak institutions Technical Campus from computer science Department.[m
+\ No newline at end of file[m
+[1mdiff --git a/epm2.txt b/epm2.txt[m
+[1mindex 6547b2e..d3c556b 100644[m
+[1m--- a/epm2.txt[m
+[1m+++ b/epm2.txt[m
+[36m@@ -1 +1,11 @@[m
+[31m-hello GNI[m
+\ No newline at end of file[m
+[32m+[m[32m                               About EPAM :[m
+[32m+[m
+[32m+[m[32mEPAM Systems, Inc. is a global product development, digital platform engineering, and digital and product design agency with Fortune 1000 clients located around the world. Wikipedia[m
+[32m+[m[32mStock price: EPAM (NYSE) US$227.57 -2.73 (-1.19%)[m
+[32m+[m[32m24 Jan, 4:02 pm GMT-5 - Disclaimer[m
+[32m+[m[32mRevenue: 184 crores USD (FY'18)[m
+[32m+[m[32mHeadquarters: Newtown, Pennsylvania, United States[m
+[32m+[m[32mCEO: Arkadiy Dobkin (Dec 2002–)[m
+[32m+[m[32mNumber of employees: 30,156 (2019)[m
+[32m+[m[32mFounder: Arkadiy Dobkin[m
+[32m+[m[32mSubsidiaries: Continuum, TH_NK, MORE[m
+\ No newline at end of file[m
+[1mdiff --git a/epm3.txt b/epm3.txt[m
+[1mindex 0cf9ae0..98a9d46 100644[m
+[1m--- a/epm3.txt[m
+[1m+++ b/epm3.txt[m
+[36m@@ -1 +1,23 @@[m
+[31m-i am kamlesh gaderiya[m
+\ No newline at end of file[m
+[32m+[m[32m                               About Epam Systems[m
+[32m+[m
+[32m+[m[32mSince 1993, EPAM Systems, Inc (NYSE:EPAM) has leveraged its core engineering[m[41m [m
+[32m+[m[32mexpertise to become a leading global product development and digital platform[m[41m [m
+[32m+[m[32mengineering services company.[m
+[32m+[m
+[32m+[m[32mThrough its ‘Engineering DNA’ and innovative strategy, consulting, and design[m[41m [m
+[32m+[m[32mcapabilities, EPAM works in collaboration with its customers to deliver end-to-end[m[41m [m
+[32m+[m[32msolutions through capabilities that remove legacy technology roadblocks and replaces[m
+[32m+[m[32mthem with automated, scalable solutions.[m
+[32m+[m
+[32m+[m[32mWe are ranked #5 in eConsultancy’s Top 100 Digital Agencies in the UK and have[m[41m [m
+[32m+[m[32menjoyed average sales growth of 28% year on year.[m
+[32m+[m
+[32m+[m[32mAlso ranked #12 on Forbes’ List of 25 Fastest Growing Public Tech Companies for 2017,[m
+[32m+[m[32mEPAM is committed to providing our global team of over 24,000 people with inspiring[m[41m [m
+[32m+[m[32mcareers from day one.[m
+[32m+[m
+[32m+[m[32mEPAMers lead with passion and honesty, and think creatively. Our people are the[m[41m [m
+[32m+[m[32msource of our success and we value collaboration, try to always understand our[m[41m [m
+[32m+[m[32mcustomers’ business, and strive for the highest standards of excellence.[m[41m [m
+[32m+[m[32mNo matter where you are located, you’ll join a dedicated, diverse community[m[41m [m
+[32m+[m[32mthat will help you discover your fullest potential.[m
+\ No newline at end of file[m

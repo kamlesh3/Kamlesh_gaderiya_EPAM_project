@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Good afternoon.I am kamlesh gaderiya from Guru Nanak institutions Technical Campus from computer science Department.
+=======
+hi i kamlesh Gaderiya.
+>>>>>>> a094645310f4ee2b3091b0aac8cf796acea56275
